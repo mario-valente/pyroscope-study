@@ -1,0 +1,5 @@
+# binário compilado da POC
+app/poc-app
+
+# dados locais
+*.out
